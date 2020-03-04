@@ -26,11 +26,11 @@ Designing and implementing a RESTful API to do a basic token transfer from user 
 ]
 ```
 ##### reset accounts
-```php
+```yaml
 'GET' accounts-with-txt-file/public/api/resetAccounts
 ```
 ##### response
-```js
+```yaml
 [
     {
         "name": "user1.txt",
@@ -44,12 +44,12 @@ Designing and implementing a RESTful API to do a basic token transfer from user 
 ```
 ### POST
 ##### amount transfer
-```php
+```yaml
 'POST' accounts-with-txt-file/public/api/transfer
 ```
 
 ##### response
-```js
+```yaml
 [
     {
         "name": "user1.txt",
