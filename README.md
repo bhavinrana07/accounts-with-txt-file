@@ -13,7 +13,7 @@ Designing and implementing a RESTful API to do a basic token transfer from user 
 'GET' accounts-with-txt-file/public/api/accounts
 ```
 ##### response
-```javascript
+```js
 [
     {
         "name": "user1.txt",
@@ -30,7 +30,7 @@ Designing and implementing a RESTful API to do a basic token transfer from user 
 'GET' accounts-with-txt-file/public/api/resetAccounts
 ```
 ##### response
-```javascript
+```js
 [
     {
         "name": "user1.txt",
@@ -49,7 +49,7 @@ Designing and implementing a RESTful API to do a basic token transfer from user 
 ```
 
 ##### response
-```javascript
+```js
 [
     {
         "name": "user1.txt",
