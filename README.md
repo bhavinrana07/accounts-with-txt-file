@@ -13,7 +13,7 @@ Designing and implementing a RESTful API to do a basic token transfer from user 
 'GET' accounts-with-txt-file/public/api/accounts
 ```
 ##### response
-```js
+```yaml
 [
     {
         "name": "user1.txt",
