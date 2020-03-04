@@ -75,6 +75,6 @@ Designing and implementing a RESTful API to do a basic token transfer from user 
 - unit tests  
 
 ### Preview
-![UI output](Account Management UI.PNG)
+![UI output](Account%20Management%20UI.PNG)
 
 
