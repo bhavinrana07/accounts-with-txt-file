@@ -48,6 +48,14 @@ Designing and implementing a RESTful API to do a basic token transfer from user 
 'POST' accounts-with-txt-file/public/api/transfer
 ```
 
+##### request
+```yaml
+{
+    "transfer_from": "1",
+    "transfer_to": "2",
+    "amount": "500"
+}
+```
 ##### response
 ```yaml
 [
