@@ -9,7 +9,7 @@ Designing and implementing a RESTful API to do a basic token transfer from user 
 ## API Endpoints
 ### GET
 ##### get accounts
-```php
+```yaml
 'GET' accounts-with-txt-file/public/api/accounts
 ```
 ##### response
