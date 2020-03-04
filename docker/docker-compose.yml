@@ -1,0 +1,10 @@
+version: '2.1'
+services:
+  website:
+    container_name: php72
+    build:
+      context: ./
+    volumes:
+      - ./src:/var/www/html
+    ports:
+      - 8000:80

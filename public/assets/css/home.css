@@ -1,0 +1,10 @@
+.card.field, .card.tractor{
+    float: left;
+    margin: 10px;
+    width: 40%;
+}
+span.amt{
+    margin: 12px;
+    color: #9e9b9b;
+    font-size: 30px;
+}
