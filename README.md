@@ -74,5 +74,7 @@ Designing and implementing a RESTful API to do a basic token transfer from user 
 - validations
 - unit tests  
 
+### Preview
+![Account Management UI](Account Management UI.PNG)
 
 
